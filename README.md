@@ -1,4 +1,4 @@
-# MasterThesis
+# Master Thesis
 
 ## Predicting Customer Satisfaction in Wix Product Reviews Using Machine Learning and NLP
 
